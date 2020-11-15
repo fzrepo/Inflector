@@ -1,5 +1,5 @@
 [package]
-name = "Inflector"
+name = "inflector"
 version = "0.11.4"
 authors = ["Josh Teeter<joshteeter@gmail.com>"]
 include = [
